@@ -1,0 +1,14 @@
+body{
+
+}
+
+.container{
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: auto ;
+}
+
+.lateral{
+    background-color: aquamarine;
+    border: solid, 1px, brown;
+}
